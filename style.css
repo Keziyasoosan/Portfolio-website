@@ -88,6 +88,12 @@ span{
 .icon{
     position: absolute;
     bottom: 100px;
-    left: 102px;
-    background: red;
+    left: 110px;
+    ;
+   
+}
+.icon a{
+    display: inline-flex;
+    width: 40px;
+
 }
