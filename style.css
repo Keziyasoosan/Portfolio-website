@@ -86,14 +86,26 @@ span{
     left: 45%;
 }
 .icon{
-    position: absolute;
-    bottom: 100px;
+    margin-left: 8%;
+    color: #000;
+    margin-right: -60px;
+    font-size: 25px;
+    transition: .4s ease ;
+  /*  position: absolute;
+ 
+     bottom: 100px;
+    width: 50px;
     left: 110px;
-    ;
+    display: flex;
+    */
    
+} 
+.icon a:hover{
+    color: hsl(60, 93%, 52%);
+
 }
 .icon a{
-    display: inline-flex;
-    width: 40px;
+   text-decoration: none;
+   color: #0c0b01;
 
 }
